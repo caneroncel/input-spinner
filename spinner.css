@@ -1,0 +1,20 @@
+.input-group {
+    line-height: 2em;
+    width: 120px;
+    z-index: 99;
+}
+
+.input-group-text {
+    border-radius: 2px;
+    cursor: pointer;
+    border-color: #afbdd4;
+}
+
+.input-group-text:hover {
+    border-color: #959595;
+}
+
+.input-group-text:active {
+    position: relative;
+    top: 1px;
+}
